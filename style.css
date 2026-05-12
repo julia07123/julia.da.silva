@@ -1,3 +1,8 @@
 body{
     background-color:#836FFF ;
 }
+
+.importante{
+    color:#836FFF;
+    font-weight: bold;
+}
